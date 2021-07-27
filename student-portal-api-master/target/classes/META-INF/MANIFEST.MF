@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Tanmay
+Build-Jdk: 16.0.1
+Implementation-Title: student-portal-api
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.amit
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/student-portal-api
+Created-By: Maven Integration for Eclipse
+
